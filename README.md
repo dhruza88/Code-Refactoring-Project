@@ -3,3 +3,10 @@ In this assignment we were tasked with dealing with redudancies in the html file
 
 Throughout the CSS stylesheet there were multiple classes that were just repetitive and making for longer compiling time.
 
+Below are screenshots of the deployed website with the correct styling sheet.
+
+!{}(ss-1.png)
+
+!{}(ss-3.png)
+
+!{}(ss-2.png)
