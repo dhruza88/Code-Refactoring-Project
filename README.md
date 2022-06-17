@@ -5,9 +5,7 @@ Throughout the CSS stylesheet there were multiple classes that were just repetit
 
 Below are screenshots of the deployed website with the correct styling sheet.
 
-!{}(images/ss-1.png)
+https://github.com/dhruza88/Code-Refactoring-Project/blob/main/images/ss-1.png
+https://github.com/dhruza88/Code-Refactoring-Project/blob/main/images/ss-3.png
+https://github.com/dhruza88/Code-Refactoring-Project/blob/main/images/ss-2.png
 
-
-!{}(images/ss-3.png)
-
-!{}(images/ss-2.png)
