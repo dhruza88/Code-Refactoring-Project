@@ -9,6 +9,3 @@ https://github.com/dhruza88/Code-Refactoring-Project/blob/main/images/ss-1.png
 https://github.com/dhruza88/Code-Refactoring-Project/blob/main/images/ss-3.pnggit
 https://github.com/dhruza88/Code-Refactoring-Project/blob/main/images/ss-2.png
 
-![alt text](images/ss-1.png.jpg)
-![alt text](images/ss-3.png.jpg)
-![alt text](images/ss-2.png.jpg)
