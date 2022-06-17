@@ -5,8 +5,9 @@ Throughout the CSS stylesheet there were multiple classes that were just repetit
 
 Below are screenshots of the deployed website with the correct styling sheet.
 
-!{}(images/filename ss-1.png)
+!{}(images/ss-1.png)
 
-!{}(images/filename ss-3.png)
 
-!{}(images/filename ss-2.png)
+!{}(images/ss-3.png)
+
+!{}(images/ss-2.png)
