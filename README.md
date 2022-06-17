@@ -1,1 +1,2 @@
-# Code-Refactoring-Project
+# code-refractor
+In this assignment we were tasked with dealing with redudancies in the html file along with any additonal css code. I used named assignments in reference with the stylesheet in css reduce any additional duplicate style that was unncessary.
